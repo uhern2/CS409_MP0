@@ -1,1 +1,37 @@
 /* Your CSS here. */
+.inner img {
+    border:2px solid black; 
+    height: 250px;
+    width: 375;
+    display: block;
+}
+
+
+.inner {
+    width: 750px;
+    height: 500px;
+    margin-top: 1in;
+    margin-left: 6in;
+    background-color: blanchedalmond;
+    place-items: center;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.inner h3{
+    font-weight: bold;
+}
+.inner h2{
+    font-weight: bold;
+}
+.inner h4{
+    font-weight: bold;
+}
+
+.outer{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 0 auto;
+}
